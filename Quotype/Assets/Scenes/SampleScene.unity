@@ -763,8 +763,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -11}
-  m_SizeDelta: {x: 600, y: 400}
+  m_AnchoredPosition: {x: 0, y: 20}
+  m_SizeDelta: {x: 600, y: 360}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &692316017
 MonoBehaviour:
@@ -817,7 +817,7 @@ MonoBehaviour:
   m_fontSize: 40
   m_fontSizeBase: 40
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 40
   m_fontStyle: 1
@@ -1066,7 +1066,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4289378756
+    rgba: 4286219405
   m_fontColor: {r: 0.5529412, g: 0.5176471, b: 0.47843137, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -1169,8 +1169,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -11}
-  m_SizeDelta: {x: 600, y: 400}
+  m_AnchoredPosition: {x: 0, y: 20}
+  m_SizeDelta: {x: 600, y: 360}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1252554988
 MonoBehaviour:
@@ -1223,7 +1223,7 @@ MonoBehaviour:
   m_fontSize: 40
   m_fontSizeBase: 40
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 40
   m_fontStyle: 1
@@ -1361,6 +1361,9 @@ MonoBehaviour:
   creditsText: {fileID: 1108591909}
   myAudioClip: {fileID: 8300000, guid: 6849f77835579694d972f450b14740fe, type: 3}
   backgroundImage: {fileID: 299426010}
+  quoteFilesList:
+  - {fileID: 4900000, guid: 6eb94e7d0b3211241be40c19095e58d1, type: 3}
+  - {fileID: 4900000, guid: f22398968d2e69b4790b0ac5fb084941, type: 3}
 --- !u!4 &1600134325
 Transform:
   m_ObjectHideFlags: 0

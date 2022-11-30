@@ -1,53 +1,33 @@
 Socrates/The hour of departure has arrived, and we go our ways - I to die and you to live. Which is the better, only God knows./Socrates
-Friedrich Nietzsche/One has attained to mastery when one neither goes wrong nor hesitates in the performance./Friedrich_Nietzsche
-Niccolò Machiavelli/No circumstance is ever so desperate that one cannot nurture some spark of hope./Niccolò_Machiavelli
-George Orwell/If liberty means anything at all, it means the right to tell people what they do not want to hear./George_Orwell
-Aristotle/The best friend is he that, when he wishes a person's good, wishes it for that person's own sake./Aristotle
-Aristotle/Poetry is finer and more philosophical than history; for poetry expresses the universal, and history only the particular./Aristotle
-Arthur Schopenhauer/Talent hits a target no one else can hit; Genius hits a target no one else can see./Arthur_Schopenhauer
-Mahatma Gandhi/You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty./Mahatma_Gandhi
-Helen Keller/Believe, when you are most unhappy, that there is something for you to do in the world. So long as you can sweeten another's pain, life is not in vain./Helen_Keller
-Helen Keller/Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold./Helen_Keller
 Vincent van Gogh/I felt my energy revive, and said to myself, in spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing./Vincent_van_Gogh
-Alan Moore/Life isn’t divided into genres. It’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel./Alan_Moore
+Nelson Mandela/When a man is denied the right to live the life he believes in, he has no choice but to become an outlaw./Nelson_Mandela
+Helen Keller/Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold./Helen_Keller
+Neil Gaiman/The world always seems brighter when you've just made something that wasn't there before./Neil_Gaiman
+Bertrand Russell/Of all forms of caution, caution in love is perhaps the most fatal to true happiness./Bertrand_Russell
+Maya Angelou/You can't use up creativity. The more you use, the more you have./Maya_Angelou
+Mahatma Gandhi/You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty./Mahatma_Gandhi
+Stephen King/Don't let the sun go down without saying thank you to someone, and without admitting to yourself that absolutely no one gets this far alone./Stephen_King
 Jean-Paul Sartre/As far as men go, it is not what they are that interests me, but what they can become./Jean-Paul_Sartre
+George Orwell/If liberty means anything at all, it means the right to tell people what they do not want to hear./George_Orwell
+Theodore Roosevelt/The worst lesson that can be taught a man is to rely upon others and to whine over his sufferings./Theodore_Roosevelt
+Alan Moore/Life isn't divided into genres. It's a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel./Alan_Moore
+Arthur Schopenhauer/Talent hits a target no one else can hit; Genius hits a target no one else can see./Arthur_Schopenhauer
+Niccolò Machiavelli/No circumstance is ever so desperate that one cannot nurture some spark of hope./Niccolò_Machiavelli
 Marcus Aurelius/If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment./Marcus_Aurelius
-Albert Einstein/Whether you can observe a thing or not depends on the theory which you use. It is the theory which decides what can be observed./Albert_Einstein
-Albert Einstein/If A is success in life, then A = x + y + z. Work is x, play is y and z is keeping your mouth shut./Albert_Einstein
-Albert Einstein/I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world./Albert_Einstein
+George R. R. Martin/In real life, the hardest aspect of the battle between good and evil is determining which is which./George_R._R._Martin
 Stephen Hawking/It is a waste of time to be angry about my disability. One has to get on with life and I haven't done badly. People won't have time for you if you are always angry or complaining./Stephen_Hawking
 Xenophon/Yet is it more honourable, and just, and upright, and pleasing, to treasure in the memory good acts than bad./Xenophon
 Thomas Jefferson/I hold it, that a little rebellion, now and then, is a good thing, and as necessary in the political world as storms in the physical./Thomas_Jefferson
-Thomas Jefferson/Enlighten the people generally, and tyranny and oppressions of body and mind will vanish like evil spirits at the dawn of day./Thomas_Jefferson
-Thomas Jefferson/I have ever deemed it more honorable and profitable, too, to set a good example than to follow a bad one./Thomas_Jefferson
-Theodore Roosevelt/The worst lesson that can be taught a man is to rely upon others and to whine over his sufferings./Theodore_Roosevelt
-Theodore Roosevelt/Death is always and under all circumstances a tragedy, for if it is not, then it means that life itself has become one./Theodore_Roosevelt
-Theodore Roosevelt/We cannot avoid meeting great issues. All that we can determine for ourselves is whether we shall meet them well or ill./Theodore_Roosevelt
-Winston Churchill/Courage is rightly esteemed the first of human qualities, because, as has been said, 'it is the quality which guarantees all others'./Winston_Churchill
-Winston Churchill/It is a mistake to look too far ahead. Only one link in the chain of destiny can be handled at a time./Winston_Churchill
-Confucius/When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves./Confucius
-Confucius/The more man meditates upon good thoughts, the better will be his world and the world at large./Confucius
 Confucius/By three methods we may learn wisdom: First, by reflection, which is the noblest; Second, by imitation, which is the easiest; and third by experience, which is the bitterest./Confucius
 Martin Luther King Jr./Keep moving. Let nothing slow you up. Move on with dignity and honor and respectability./Martin_Luther_King_Jr.
-Martin Luther King Jr./Hatred paralyzes life; love releases it. Hatred confuses life; love harmonizes it. Hatred darkens life; love illuminates it./Martin_Luther_King_Jr.
-Martin Luther King Jr./Oppressed people cannot remain oppressed forever. The yearning for freedom eventually manifests itself./Martin_Luther_King_Jr.
-Martin Luther King Jr./In the end, we will remember not the words of our enemies but the silence of our friends./Martin_Luther_King_Jr.
 Rosa Parks/I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear./Rosa_Parks
-Nelson Mandela/It is in the character of growth that we should learn from both pleasant and unpleasant experiences./Nelson_Mandela
-Nelson Mandela/When a man is denied the right to live the life he believes in, he has no choice but to become an outlaw./Nelson_Mandela
-Stephen King/Don't let the sun go down without saying thank you to someone, and without admitting to yourself that absolutely no one gets this far alone./Stephen_King
-George R. R. Martin/In real life, the hardest aspect of the battle between good and evil is determining which is which./George_R._R._Martin
-Neil Gaiman/The world always seems brighter when you've just made something that wasn't there before./Neil_Gaiman
 J. R. R. Tolkien/I do so dearly believe that no half-heartedness and no worldly fear must turn us aside from following the light unflinchingly./J._R._R._Tolkien
 Sun Tzu/He who knows when he can fight and when he cannot will be victorious./Sun_Tzu
-Sun Tzu/And therefore those skilled in war bring the enemy to the field of battle and are not brought there by him./Sun_Tzu
-Maya Angelou/You can’t use up creativity. The more you use, the more you have./Maya_Angelou
+Albert Einstein/I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world./Albert_Einstein
 Abraham Lincoln/The probability that we may fall in the struggle ought not to deter us from the support of a cause we believe to be just; it shall not deter me./Abraham_Lincoln
 John Locke/To love truth for truth's sake is the principal part of human perfection in this world, and the seed-plot of all other virtues./John_Locke
-John Locke/Virtue is harder to be got than knowledge of the world; and, if lost in a young man, is seldom recovered./John_Locke
 Bertrand Russell/No nation was ever so virtuous as each believes itself, and none was ever so wicked as each believes the other./Bertrand_Russell
-Bertrand Russell/The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest./Bertrand_Russell
-Bertrand Russell/To save the world requires faith and courage: faith in reason, and courage to proclaim what reason shows to be true./Bertrand_Russell
-Bertrand Russell/Of all forms of caution, caution in love is perhaps the most fatal to true happiness./Bertrand_Russell
-Alan Turing/We can only see a short distance ahead, but we can see plenty there that needs to be done./Alan_Turing
+Friedrich Nietzsche/One has attained to mastery when one neither goes wrong nor hesitates in the performance./Friedrich_Nietzsche
+Aristotle/Poetry is finer and more philosophical than history; for poetry expresses the universal, and history only the particular./Aristotle
+Winston Churchill/It is a mistake to look too far ahead. Only one link in the chain of destiny can be handled at a time./Winston_Churchill
 Thucydides/The secret of happiness is freedom and the secret of freedom is courage./Thucydides
