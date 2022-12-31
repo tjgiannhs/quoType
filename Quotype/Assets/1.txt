@@ -14,7 +14,8 @@ Albert Einstein/If A is success in life, then A = x + y + z. Work is x, play is 
 Helen Keller/Believe, when you are most unhappy, that there is something for you to do in the world. So long as you can sweeten another's pain, life is not in vain./Helen_Keller
 Bertrand Russell/The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest./Bertrand_Russell
 Bertrand Russell/To save the world requires faith and courage: faith in reason, and courage to proclaim what reason shows to be true./Bertrand_Russell
-Aristotle/The best friend is he that, when he wishes a person's good, wishes it for that person's own sake./AristotleSun Tzu/And therefore those skilled in war bring the enemy to the field of battle and are not brought there by him./Sun_Tzu
+Aristotle/The best friend is he that, when he wishes a person's good, wishes it for that person's own sake./Aristotle
+Sun Tzu/And therefore those skilled in war bring the enemy to the field of battle and are not brought there by him./Sun_Tzu
 Sun Tzu/And therefore those skilled in war bring the enemy to the field of battle and are not brought there by him./Sun_Tzu
 John Locke/Virtue is harder to be got than knowledge of the world; and, if lost in a young man, is seldom recovered./John_Locke
 Pericles/We do not say that a man who takes no interest in politics is a man who minds his own business; we say that he has no business here at all./Pericles
@@ -25,3 +26,60 @@ Thales of Miletus/Hope is the only good that is common to all men; those who hav
 Pythagoras/We ought so to behave to one another as to avoid making enemies of our friends, and at the same time to make friends of our enemies./Pythagoras
 Pythagoras/Choose always the way that seems the best, however rough it may be; custom will soon render it easy and agreeable./Pythagoras
 Pythagoras/The best and greatest winning is a true friend; and the greatest loss is the loss of time./Pythagoras
+Sigmund Freud/How bold one gets when one is sure of being loved./Sigmund_Freud
+Carl Sagan/Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another./Carl_Sagan
+Carl Sagan/For small creatures such as we the vastness is bearable only through love./Carl_Sagan
+Carl Sagan/The prediction I can make with the highest confidence is that the most amazing discoveries will be the ones we are not today wise enough to foresee./Carl_Sagan
+Simon Sinek/I find, when you're an optimist, life has a funny way of looking after you./Simon_Sinek
+Simon Sinek/If you can clearly articulate the dream or the goal, start./Simon_Sinek
+Muhammad Ali/It's a lack of faith that makes people afraid of meeting challenges, and I believe in myself./Muhammad_Ali
+Frank Sinatra/If you possess something but you can't give it away, then you don't possess it... it possesses you./Frank_Sinatra
+Frank Sinatra/If you don't know the guy on the other side of the world, love him anyway because he's just like you. He has the same dreams, the same hopes and fears. It's one world, pal. We're all neighbors./Frank_Sinatra
+Frank Herbert/The people I distrust most are those who want to improve our lives but have only one course of action in mind./Frank_Herbert
+Frank Herbert/A man is a fool not to put everything he has, at any given moment, into what he is creating./Frank_Herbert
+Bob Ross/Talent is a pursued interest. In other words, anything that you're willing to practice, you can do./Bob_Ross
+Seneca the Elder/The whole world would have been destroyed if compassion did not put an end to anger./Seneca_the_Elder
+Seneca the Elder/It is wrong not to give a hand to the fallen; this law is universal to the whole human race./Seneca_the_Elder
+Seneca the Elder/Some laws are not written, but are more decisive than any written law./Seneca_the_Elder
+Epicurus/He who is not satisfied with a little, is satisfied with nothing./Epicurus
+Andy Warhol/I've never met a person I couldn't call a beauty./Andy_Warhol
+Andy Warhol/They always say that time changes things, but you actually have to change them yourself./Andy_Warhol
+Frida Kahlo/I am not sick. I am broken. But I am happy to be alive as long as I can paint./Frida_Kahlo
+Bob Dylan/It's not to anybody's best interest to think about how they will be perceived tomorrow. It hurts you in the long run./Bob_Dylan
+Steve Jobs/Being the richest man in the cemetery doesn't matter to me... Going to bed at night saying we've done something wonderful... that's what matters to me./Steve_Jobs
+Bill Gates/If you show people the problems and you show people the solutions they will be moved to act./Bill_Gates
+Bill Gates/Success is a lousy teacher. It seduces smart people into thinking they can't lose./Bill_Gates
+Nikola Tesla/Money does not represent such a value as men have placed upon it. All my money has been invested into experiments with which I have made new discoveries enabling mankind to have a little easier life./Nikola_Tesla
+Mark Twain/Loyalty to petrified opinions never yet broke a chain or freed a human soul in this world — and never will./MarkTwain
+Demosthenes/No man can tell what the future may bring forth, and small opportunities are often the beginning of great enterprises./Demosthenes
+Cicero/As for me, I cease not to advocate peace. It may be on unjust terms, but even so it is more expedient than the justest of civil wars./Cicero
+Cicero/True glory strikes root, and even extends itself; all false pretensions fall as do flowers, nor can anything feigned be lasting./Cicero
+Laozi/Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power./Laozi
+Laozi/To attain knowledge, add things every day. To attain wisdom, remove things every day./Laozi
+Simone de Beauvoir/Self-knowledge is no guarantee of happiness, but it is on the side of happiness and can supply the courage to fight for it./Simone_de_Beauvoir
+Simone de Beauvoir/I am incapable of conceiving infinity, and yet I do not accept finity. I want this adventure that is the context of my life to go on without end./Simone_de_Beauvoir
+Simone de Beauvoir/The fact that we are human beings is infinitely more important than all the peculiarities that distinguish human beings from one another./Simone_de_Beauvoir
+Shigeru Miyamoto/A good idea is something that does not solve just one single problem, but rather can solve multiple problems at once./Shigeru_Miyamoto
+Voltaire/One always speaks badly when one has nothing to say./Voltaire
+Voltaire/We should be considerate to the living; to the dead we owe only the truth./Voltaire
+Voltaire/Love is of all the passions the strongest, for it attacks simultaneously the head, the heart, and the body./Voltaire
+Georg Wilhelm Friedrich Hegel/To be aware of limitations is already to be beyond them./Georg_Wilhelm_Friedrich_Hegel
+Jean-Jacques Rousseau/A country cannot subsist well without liberty, nor liberty without virtue./Jean-Jacques_Rousseau
+Marie Curie/Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained./Marie_Curie
+Marie Curie/Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less./Marie_Curie
+
+
+Message cultural tutor
+
+
+Frederick Douglass/I would unite with anybody to do right; and with nobody to do wrong./Frederick_Douglass
+Frederick Douglass/To suppress free speech is a double wrong. It violates the rights of the hearer as well as those of the speaker./Frederick_Douglass
+Frederick Douglass/Right is of no sex, Truth is of no color, God is the Father of us all, and we are all Brethren./Frederick_Douglass
+Carl Jung/There are as many nights as days, and the one is just as long as the other in the year's course. Even a happy life cannot be without a measure of darkness, and the word "happy" would lose its meaning if it were not balanced by sadness./Carl_Jung
+Denis Diderot/There is no moral precept that does not have something inconvenient about it./Denis_Diderot
+Denis Diderot/Happiest are the people who give most happiness to others./Denis_Diderot
+Denis Diderot/We swallow greedily any lie that flatters us, but we sip only little by little at a truth we find bitter./Denis_Diderot
+Pablo Picasso/Inspiration exists, but it has to find you working./Pablo_Picasso
+Ludwig van Beethoven/The world is a king, and like a king, desires flattery in return for favor; but true art is selfish and perverse — it will not submit to the mold of flattery./Ludwig_van_Beethoven
+Bruce Lee/Don't fear failure. - Not failure, but low aim, is the crime. In great attempts it is glorious even to fail./Bruce_Lee
+Bruce Lee/Choose the positive. - You have choice - you are master of your attitude - choose the Positive, the Constructive. Optimism is a faith that leads to success./Bruce_Lee

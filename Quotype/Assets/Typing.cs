@@ -18,6 +18,7 @@ public class Typing: MonoBehaviour
     [SerializeField] GameObject linkButton;
     [SerializeField] GameObject timerText;
     [SerializeField] GameObject creditsText;
+    [SerializeField] GameObject overlay;
     [SerializeField] AudioClip myAudioClip;
     AudioSource myAudioSource;
     string targetText;
@@ -28,7 +29,7 @@ public class Typing: MonoBehaviour
     bool gameEnded = false;
     int totalSecondsToday = -1;
     int currentDayNumber;
-    int releaseDayNumber = 334;//the day it was released to the public, 30/11/2022
+    int releaseDayNumber = 1;// starts from jan 1
     int quotesFileIndex;
     string siteURL = "https://en.wikipedia.org/wiki/";
     [SerializeField] List<TextAsset> quoteFilesList;
@@ -95,7 +96,7 @@ public class Typing: MonoBehaviour
     }
     string GetQuoteInfoFromFile()
     {
-        TextAsset quotesFile = quoteFilesList[quotesFileIndex];
+        TextAsset quotesFile = quoteFilesList[0];//quoteFilesList[quotesFileIndex]; Only 1 file 0.txt that has all the 366 quotes for each year as well as leap ones
         var content = quotesFile.text;
         var allLines = content.Split("\n");
         List<string> lines = new List<string>(allLines);
@@ -110,10 +111,6 @@ public class Typing: MonoBehaviour
         print((int)DateTime.Now.TimeOfDay.TotalSeconds/3600+":"+(int)DateTime.Now.TimeOfDay.TotalSeconds%3600/60+":"+(int)DateTime.Now.TimeOfDay.TotalSeconds%60);
         quotesFileIndex = (DateTime.Now.Year-2022)%2;//when adding files for more years than 2 years (2022 and 2023) just increase the mod number by 1
         print(quotesFileIndex);
-        if(DateTime.Now.Year!=2022)
-        {
-            releaseDayNumber=1;//since this releases in late 2022 the quotes will be less at first for file 0.txt
-        }
         print(DateTime.Now.DayOfYear+"-"+DateTime.Now.Year);
         currentDayNumber = DateTime.Now.DayOfYear;
         totalSecondsToday = (int)DateTime.Now.TimeOfDay.TotalSeconds;
@@ -130,10 +127,6 @@ public class Typing: MonoBehaviour
             print((int)localDateTime.TimeOfDay.TotalSeconds/3600+":"+(int)localDateTime.TimeOfDay.TotalSeconds%3600/60+":"+(int)localDateTime.TimeOfDay.TotalSeconds%60);
             quotesFileIndex = (localDateTime.Year-2022)%2;//when adding files for more years than 2 years (2022 and 2023) just increase the mod number by 1
             print(quotesFileIndex);
-            if(localDateTime.Year!=2022)
-            {
-                releaseDayNumber=1;//since this releases in late 2022 the quotes will be less at first for file 0.txt
-            }
             print(localDateTime.DayOfYear+"-"+localDateTime.Year);
             currentDayNumber = localDateTime.DayOfYear;
             totalSecondsToday = (int)localDateTime.TimeOfDay.TotalSeconds;
@@ -152,6 +145,11 @@ public class Typing: MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(!textInput.isFocused) textInput.ActivateInputField();
+        
+        if(!Application.isFocused)  overlay.SetActive(true);
+        else    overlay.SetActive(false);
+
         if(Input.GetKeyDown(KeyCode.DownArrow))  Application.LoadLevel(Application.loadedLevel);
         //for testing next and previous day's quotes
         //if(Input.GetKeyDown(KeyCode.RightArrow))  GameSetUp(1);
